@@ -57,5 +57,5 @@ Check it out here:
 This project is actually a great beginner-friendly build.
 It’s the kind of project that teaches you how real interaction works on a webpage.and its amazing to polish up your basics .
 if your learning Web dev , this is super fun to code !
-Happy coding 💻✨
+Happy coding 💻✨!
 
