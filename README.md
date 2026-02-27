@@ -38,7 +38,7 @@ Features
 ✅ Click-to-mark daily completion
 🔢 Live progress counter
 🔄 Reset button to start over
-🧼 Clean, minimal, aesthetic for the girlie's out there 
+🧼 Clean, minimal and aesthetic for the girlie's out there 
 
 Built With:
 HTML
@@ -52,7 +52,6 @@ Now go build habits like a main character. 🌟
 
 Check it out here:
 👉https://iqra16200950-dev.github.io/Habit-tracker/
-
 
 This project is actually a great beginner-friendly build.
 It’s the kind of project that teaches you how real interaction works on a webpage.and its amazing to polish up your basics .
