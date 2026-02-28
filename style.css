@@ -1,0 +1,89 @@
+body {
+    background-image: url('../pattern.jpg');
+    /* background-size: cover; */
+    background-color: #eba4c5;
+    text-align: center;
+   font-family: 'Kindegarten', sans-serif;
+                                                
+}
+
+#title {
+    margin-top: 100px;
+    line-height: 10px;
+}
+
+#subtitle {
+    opacity: 0.7;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#calendarContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#calendarContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#calendarContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#calendarDiv {
+    background-color: rgb(247, 222, 247);
+     border-radius: 10px 10px 0px 0px;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+}
+
+#calendarHeading {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px 10px 0px 0px;
+    border: 2px solid black;
+    padding: 0px 20px;
+    font-size: 20px;
+    background-color: pink;
+    line-height: 0px;
+}
+
+#calendarContent {
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.days {
+    display: flex;
+}
+
+/* Desktop + Tablet */
+.day {
+    width: 30px;
+    margin: 3px;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    .day {
+        width: 25px;
+        margin: 3px;
+        padding: 5px;
+        font-size: 15px;
+        text-align: center;
+        border-radius: 20px;
+    }
+}
+
+/* Button */
+#resetButton {
+    margin: 2.5%;
+}
